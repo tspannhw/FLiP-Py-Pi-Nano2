@@ -20,3 +20,4 @@ precision optical sensor that can be used to measure heart rate, pulse oximetry 
 * https://github.com/pimoroni/bme680-python
 * https://shop.pimoroni.com/products/bme688-breakout?variant=39336951709779
 * https://cdn.shopify.com/s/files/1/0174/1800/files/bst-bme688-ds000.pdf?v=1620834794
+* https://github.com/pimoroni/max30105-python
